@@ -91,7 +91,7 @@ Several real-world inconsistencies were handled:
 - Scooter ride counts near STN_003
 - Day 15 precipitation levels
 
-![Dashboard](images/dashboard(1).png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
